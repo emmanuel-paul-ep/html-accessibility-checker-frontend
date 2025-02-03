@@ -1,4 +1,3 @@
-````markdown
 # **Frontend - HTML Accessibility Checker - by Emmanuel Paul**
 
 This frontend is built using **React (Vite)** and provides an interface to upload HTML files for accessibility analysis.
@@ -49,6 +48,4 @@ npm run dev
 | **Run Frontend**         | `npm run dev`    |
 
 Your frontend app is now set up and ready to communicate with the backend! 🚀
-
-````
 
