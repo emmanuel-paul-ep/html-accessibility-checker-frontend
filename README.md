@@ -49,3 +49,8 @@ npm run dev
 
 Your frontend app is now set up and ready to communicate with the backend! 🚀
 
+## ** Sample Screenshots**
+
+https://ibb.co/pvndWBG9
+https://ibb.co/Z6BBswNn
+
