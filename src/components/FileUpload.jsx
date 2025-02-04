@@ -20,7 +20,7 @@ function FileUpload({ setAccessibilityData }) {
     formData.append("file", file);
 
     try {
-      const response = await axios.post("http://localhost:3001/api/upload", formData, {
+      const response = await axios.post("https://html-accessibility-checker-backend.onrender.com//api/upload", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
 
