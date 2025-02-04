@@ -12,7 +12,7 @@ function AccessibilityResults({ data }) {
         <h3 className="text-danger">Issues Detected:</h3>
 
         {data.issues.length === 0 ? (
-          <p className="text-success font-weight-bold mt-2">✅ No issues found! 🎉</p>
+          <p className="text-success font-weight-bold mt-2">No issues found! 🎉</p>
         ) : (
           <div className="table-responsive">
             <table className="table table-bordered table-hover table-striped mt-3">
