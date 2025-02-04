@@ -49,8 +49,7 @@ npm run dev
 
 Your frontend app is now set up and ready to communicate with the backend! 🚀
 
-## ** Sample Screenshots**
+## ** Deployment & Demo **
 
-https://ibb.co/pvndWBG9
-https://ibb.co/Z6BBswNn
-
+Application is deployed via Vercel. 
+Live demo url: https://html-accessibility-checker-frontend.vercel.app/
