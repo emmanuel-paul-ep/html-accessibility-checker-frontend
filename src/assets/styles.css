@@ -18,8 +18,16 @@ body {
     text-align: center;
     width: 400px;
     color: #333;
+    width: 90%; 
+    max-width: 900px; 
   }
   
+  @media (min-width: 768px) {
+      .app-container {
+          width: 600px; /* specific width for larger screens */
+        }
+  }
+
   /* Title Styling */
   h1 {
     font-size: 24px;

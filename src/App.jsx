@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import FileUpload from "./components/FileUpload";
 import AccessibilityResults from "./components/AccessibilityResults";
 import "./assets/styles.css"; // Import global styles
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [accessibilityData, setAccessibilityData] = useState(null);
