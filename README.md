@@ -26,17 +26,6 @@ npm run dev
 ### **3️⃣ API Endpoints**
 
 - **Upload HTML File:** `POST https://html-accessibility-checker-backend.onrender.com/api/upload`
-- **Expected Response:**
-
-```json
-{
-  "score": 80,
-  "issues": [
-    { "description": "Image missing alt attribute.", "element": "<img src='logo.png'>" },
-    { "description": "Skipped heading level: Found <h3> after <h1>", "element": "<h3>Main Section</h3>" }
-  ]
-}
-```
 
 ---
 
